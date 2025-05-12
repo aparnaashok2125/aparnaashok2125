@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aparna Ashok — Data Science Enthusiast & MCA Student<br>	•	Currently working on: ML projects like Osteoporosis Risk Prediction, Sleep Disorder Detection, and Breast Cancer Classification.<br>	•	Collaborating with: Peers and mentors to improve model accuracy and build impactful healthcare solutions.<br>	•	Need help with: Advanced model tuning, feature engineering, and deployment best practices.<br>	•	About to leave: My comfort zone — ready to take on challenging roles in data science and AI!
+Hi, I’m Aparna Ashok — Data Science Enthusiast & MCA Student<br>	•	Currently working on: ML projects like Osteoporosis Risk Prediction, Sleep Disorder Detection, and Breast Cancer Classification.<br>	•	Collaborating with: Peers and mentors to improve model accuracy and build impactful healthcare solutions.<br>	•	Need help with: Advanced model tuning, feature engineering, and deployment best practices.<br>	•	My comfort zone — ready to take on challenging roles in data science and AI!
 
 
 ## 🌐 Socials:
