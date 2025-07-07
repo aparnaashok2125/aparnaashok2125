@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Aparna Ashok — Data Science Enthusiast & MCA Student<br>	•	Currently working on: ML projects.<br>	•	Collaborating with: Peers and mentors to improve model accuracy and build impactful healthcare solutions.<br>	•	Need help with: Advanced model tuning, feature engineering, and deployment best practices.<br>
+# About Me:
+Hi, I’m Aparna Ashok — Physics Graduate & MCA Student<br>	•	Currently working on: ML projects.<br>	•	Collaborating with: Peers and mentors to improve model accuracy and build impactful healthcare solutions.<br>	•	Need help with: Advanced model tuning, feature engineering, and deployment best practices.<br>
 
 
 ## 🌐 Socials:
