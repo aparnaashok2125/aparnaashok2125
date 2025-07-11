@@ -1,6 +1,6 @@
 ## About Me
 
-I’m currently learning **Quantum Machine Learning**
+- I’m currently learning **Quantum Machine Learning**
 
 My 2025 Goals include exploring research areas such as:
 - Computer Vision  
