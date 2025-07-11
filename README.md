@@ -1,3 +1,17 @@
+## About Me
+
+I’m currently learning **Quantum Machine Learning**
+
+My 2022 Goals include exploring research areas such as:
+- Computer Vision  
+- Deep Learning  
+- Natural Language Processing  
+- Time Series Analysis  
+- Audio Deep Learning  
+- Satellite Image Segmentation
+
+Fun fact: I love to code and explore new technologies
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aparnaashok2125) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aparnaashok_ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aparnaashokpersonal@gmail.com) 
 
