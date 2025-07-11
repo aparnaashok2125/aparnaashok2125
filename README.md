@@ -2,7 +2,7 @@
 
 I’m currently learning **Quantum Machine Learning**
 
-My 2022 Goals include exploring research areas such as:
+My 2025 Goals include exploring research areas such as:
 - Computer Vision  
 - Deep Learning  
 - Natural Language Processing  
