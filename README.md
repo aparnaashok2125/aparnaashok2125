@@ -1,16 +1,29 @@
-## About Me
+# Hi, I'm Aparna — an AI/ML Engineer
 
-- I’m currently learning **Quantum Machine Learning**
+I'm an AI/ML Engineer obsessed with building intelligent systems that not only work — but **learn, adapt, and scale**.
 
-My 2025 Goals include exploring research areas such as:
-- Computer Vision  
-- Deep Learning  
-- Natural Language Processing  
-- Time Series Analysis  
-- Audio Deep Learning  
-- Satellite Image Segmentation
+### What I love:
+- Models that solve real-world problems  
+- Clean, explainable code (Python + PyTorch / TensorFlow)  
+- Data pipelines that flow smoothly  
+- Deployments that just work (FastAPI + Docker + GCP)
 
-Fun fact: I love to code and explore new technologies
+I work across the full AI/ML stack — from data collection and preprocessing to model training, evaluation, and deployment.  
+I **explore**, I **experiment**, I **deploy**.  
+I collaborate with cross-functional teams, dive into user feedback, and do what it takes to ship meaningful solutions.
+
+I come from a science background and discovered coding through curiosity — but found purpose in using it to **build intelligent systems**.  
+What started as experiments with small models turned into a full-blown passion for building things that think.
+
+I began coding in my late teens and started working on real-world ML projects soon after. Since then, I haven’t looked back.
+
+### My journey’s been built on:
+- Learning in public  
+- Sharing my progress  
+- Contributing to open-source  
+- Collaborating with communities  
+
+**Still learning. Still building. Still shipping.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aparnaashok2125) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aparnaashok_ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aparnaashokpersonal@gmail.com) 
