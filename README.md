@@ -1,4 +1,4 @@
-# Hi, I'm Aparna Ashok — an AI/ML Engineer
+# Hi, I'm Aparna Ashok 
 
 I'm an AI/ML Engineer obsessed with building intelligent systems that not only work — but **learn, adapt, and scale**.
 
